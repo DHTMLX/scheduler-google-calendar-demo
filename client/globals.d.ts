@@ -1,0 +1,1 @@
+declare const GOOGLE_AUTHORIZED: boolean;
